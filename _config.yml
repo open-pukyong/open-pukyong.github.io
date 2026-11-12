@@ -22,9 +22,9 @@ title_separator          : "-"
 subtitle                 : "tree's song: when sun coming out"# site tagline that appears below site title in masthead
 name                     : "N0_name"
 description              : "it start 26-oss-class it'll end when im die"
-url                      : # the base hostname & protocol for your site e.g. "https://open-pukyong.github.io/"
+url                      : "https://open-pukyong.github.io" # the base hostname & protocol for your site e.g. "https://open-pukyong.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "open-pukyong/repositories"
+repository               : "open-pukyong/open-pukyong.github.io" # GitHub username/repo-name e.g. "open-pukyong/repositories"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "docs/assets/images/apple-touch-icon-152x152.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
